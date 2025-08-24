@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Antoree Logo](https://via.placeholder.com/200x80/0066CC/FFFFFF?text=ANTOREE)
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e73f747d-963b-4fdd-93a9-13c73bc94279" />
+
 
 **A modern, full-stack online English learning ecosystem built with NestJS backend and Next.js frontend**
 
